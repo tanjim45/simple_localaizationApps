@@ -1,0 +1,19 @@
+{
+  "@@locale": "hi",
+  "welcome": "फ़्लटर में आपका स्वागत है",
+  "home": "होम",
+  "settings": "सेटिंग्स",
+  "changeLanguage": "भाषा बदलें",
+  "addTask": "कार्य जोड़ें",
+  "pending": "बाकी है",
+  "done": "पूरा हुआ",
+  "taskCount": "{count, plural, =0{कोई कार्य नहीं} =1{1 कार्य} other{{count} कार्य}}",
+  "@taskCount": {
+    "description": "कार्य की संख्या दिखाता है",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  }
+}
